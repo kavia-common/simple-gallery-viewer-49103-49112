@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-gallery-viewer-49103-49112/gallery_frontend"
+}
